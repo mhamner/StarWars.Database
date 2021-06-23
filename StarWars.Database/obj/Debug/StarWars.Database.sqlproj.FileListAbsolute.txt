@@ -1,0 +1,6 @@
+C:\Users\mark.hamner\source\repos\StarWars.Database\StarWars.Database\bin\Debug\StarWars.Database.dacpac
+C:\Users\mark.hamner\source\repos\StarWars.Database\StarWars.Database\bin\Debug\StarWars.Database.dll
+C:\Users\mark.hamner\source\repos\StarWars.Database\StarWars.Database\bin\Debug\StarWars.Database.pdb
+C:\Users\mark.hamner\source\repos\StarWars.Database\StarWars.Database\obj\Debug\StarWars.Database.sqlprojAssemblyReference.cache
+C:\Users\mark.hamner\source\repos\StarWars.Database\StarWars.Database\obj\Debug\StarWars.Database.dll
+C:\Users\mark.hamner\source\repos\StarWars.Database\StarWars.Database\obj\Debug\StarWars.Database.pdb
